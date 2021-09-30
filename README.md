@@ -1,0 +1,1 @@
+This is Kim Hugo's first git project!
